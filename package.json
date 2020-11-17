@@ -1,9 +1,10 @@
 {
-  "name": "@bonustrack/snapshot-spaces",
+  "name": "@build-finance/snapshot-spaces",
   "version": "0.1.0",
-  "repository": "bonustrack/snapshot-spaces",
+  "repository": "build-finance/snapshot-spaces",
   "license": "MIT",
   "files": [
-    "spaces"
+    "spaces",
+    "skins"
   ]
 }
